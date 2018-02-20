@@ -1,0 +1,1 @@
+INSERT INTO test (A, B, C, D, E) VALUES (A1, B1, C1, D1, E1)
