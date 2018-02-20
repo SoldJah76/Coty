@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519137190 source:c:\users\1520752\documents\coty\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
